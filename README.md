@@ -1,0 +1,1 @@
+This Resource dor webScraping !
